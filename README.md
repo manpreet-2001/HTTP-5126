@@ -5,9 +5,9 @@ In this course, I explored strategies and techniques for designing, creating, an
 
 
 📚 Labs<br/>
-Lab 0<br/>
-🔗 Project Files  <br/>
+  Lab 0<br/>
 
+🔗 Project Files  <br/>
 You can view the project files for Lab 0 here.
 
 💻 Code Sample <br/> 
