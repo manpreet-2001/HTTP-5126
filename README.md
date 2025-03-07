@@ -5,7 +5,7 @@ In this course, I explored strategies and techniques for designing, creating, an
 
 
 📚 Labs<br/>
-Lab 0
+Lab 0<br/>
 🔗 Project Files  <br/>
 
 You can view the project files for Lab 0 here.
@@ -14,7 +14,7 @@ You can view the project files for Lab 0 here.
 Here's a quick code sample demonstrating how to use the main feature of the lab:<br/>
 
 -- Sample SQL code for Lab 0<br/>
-SELECT * FROM students WHERE grade > 85;<br/>
+```SELECT * FROM students WHERE grade > 85;```<br/>
 
 ⚠️ Warning<br/>
 Please ensure you have all necessary dependencies installed before running the project. Refer to the installation instructions in the repository.
